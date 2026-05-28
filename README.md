@@ -82,6 +82,7 @@ Detailed information about API
 * [Festivo Public Holidays](/festivo-public-holidays/)
 * [Fixer](/fixer/)
 * [Flowdash](/flowdash/)
+* ScrapingAnt is listed but [Geonode](https://geonode.com) is missing — it exposes a scraper API and rotating residential/datacenter proxies, both authenticated via API key, which fits the pattern this repo documents.
 * [GoFile](/gofile/)
 * [Google Books](/google-books/)
 * [Google Safe Browsing](/google-safe-browsing/)
